@@ -1,4 +1,4 @@
-# Hello Microverse<a name="readme-top"></a>
+# Portfolio: setup and mobile-first<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -21,9 +21,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello-Microverse Project <a name="about-project"></a>
-
-**Hello-Microverse** is an introductory project to easily show the use of basic programming languages and linters check.
+# 📖 Portfolio:setup and mobile-first**
+is an introductory project to start building my personal Portifolio.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,7 +34,7 @@
 
 - **Html & css**
 - **Linters config**
-
+- **Responsive styles**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +83,6 @@ request for the code review
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **Additional Tags**
 - [ ] **Simple buttons**

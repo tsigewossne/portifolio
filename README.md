@@ -49,7 +49,7 @@ follow the below steps to get started
 
 ### Setup
 
->clone the folder in your specified directory by "git clone + link (git@github.com:tsigewossne/Hello-world.git)" and make sure the file has be copied.
+>clone the folder in your specified directory by "git clone + link (https://github.com/tsigewossne/portifolio/tree/setup-and-mobile-first)" and make sure the file has be copied.
 
 
 ### Install
@@ -73,7 +73,7 @@ request for the code review
 
 👤 **Tsige Wossne**
 
-- GitHub: [@githubhandle](https://github.com/tsigewossne/portifolio/tree/setup-and-mobile-first)
+- GitHub: [@githubhandle](https://github.com/tsigewossne)
 - Twitter: [@twitterhandle] @Tsigewo
 - LinkedIn: [LinkedIn](http://ca.linkedin.com/in/linkedintsigewossne)
 

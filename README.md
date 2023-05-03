@@ -73,7 +73,7 @@ request for the code review
 
 👤 **Tsige Wossne**
 
-- GitHub: [@githubhandle](https://github.com/tsigewossne)
+- GitHub: [@githubhandle](https://github.com/tsigewossne/portifolio/tree/setup-and-mobile-first)
 - Twitter: [@twitterhandle] @Tsigewo
 - LinkedIn: [LinkedIn](http://ca.linkedin.com/in/linkedintsigewossne)
 

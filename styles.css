@@ -157,7 +157,6 @@ section h3 {
 section .green {
   font-family: 'Inter', sans-serif;
   display: flex;
-  font-family: inter;
   color: #36b37e;
   justify-content: center;
 }

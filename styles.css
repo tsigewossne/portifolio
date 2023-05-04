@@ -103,6 +103,7 @@ nav .logo a {
   align-content: end;
   flex-flow: row;
   align-self: center;
+  gap: 20px;
 }
 
 .contact li {
@@ -110,6 +111,7 @@ nav .logo a {
   width: 1px;
   height: 1px;
   align-content: center;
+  gap: 20px;
 }
 
 section h1 {

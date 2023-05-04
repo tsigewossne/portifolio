@@ -113,9 +113,10 @@ nav .logo a {
   align-content: center;
 }
 
-.contact li + li{
+.contact li + li {
   margin-left: 20px;;
 }
+
 section h1 {
   justify-content: center;
   font-family: 'Inter', sans-serif;

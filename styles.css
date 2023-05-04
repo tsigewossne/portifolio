@@ -97,7 +97,7 @@ nav .logo a {
   align-items: center;
   flex: none;
   order: 3;
-  Flex-grow: 0;
+  flex-grow: inherit;
 }
 
 .contact ul {

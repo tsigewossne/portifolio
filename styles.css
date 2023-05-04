@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
 * {
   padding: 0;
@@ -97,7 +97,6 @@ nav .logo a {
   align-items: center;
   flex: none;
   order: 3;
-  flex-grow: inherit;
 }
 
 .contact ul {
@@ -113,7 +112,7 @@ nav .logo a {
 
 section h1 {
   justify-content: center;
-  font-family: inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
@@ -131,7 +130,7 @@ section h1 {
 }
 
 section p {
-  font-family: inter;
+  font-family: 'Inter', sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
@@ -156,6 +155,7 @@ section h3 {
 }
 
 section .green {
+  font-family: 'Inter', sans-serif;
   display: flex;
   font-family: inter;
   color: #36b37e;

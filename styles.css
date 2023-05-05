@@ -72,6 +72,14 @@ section {
   margin-left: 100px;
 }
 
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 25px;
+  margin-left: -10px;
+}
+
 .contact ul {
   align-content: end;
   flex-flow: row;
@@ -300,7 +308,7 @@ header img {
 
 .grid-container1 {
   display: grid;
-  gap: 0px 100px;
+  gap: 0.025px 100px;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: auto;
   background-color: #f7f7f9;
@@ -329,16 +337,8 @@ header img {
   height: 236px;
   border-radius: 8px;
   padding: 16px;
-  background-color: #ffffff;
+  background-color: #fff;
   gap: 16px;
-  margin-left: -10px;
-} 
-
-ul {
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  margin-top: 25px;
   margin-left: -10px;
 }
 
@@ -382,7 +382,7 @@ li {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: #fff;
 }
 
 .name {
@@ -432,7 +432,7 @@ li {
 }
 
 .btn p {
-  color: #ffffff;
+  color: #fff;
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -467,7 +467,7 @@ li {
   padding: 12px;
   width: fit-content;
   height: 40px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   margin-left: 10px;
   font-family: 'Inter', sans-serif;
@@ -504,12 +504,13 @@ li {
 .fname {
   box-sizing: border-box;
   position: relative;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #d0d9d4;
   border-radius: 4px;
   width: 327px;
   height: 48px;
 }
+
 .fname p {
   position: absolute;
   height: 18px;
@@ -532,7 +533,7 @@ li {
   width: 327px;
   height: 114px;
   border-radius: 4px;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #60c095;
 }
 
@@ -566,7 +567,7 @@ li {
 }
 
 .btn1 p {
-  color: #ffffff;
+  color: #fff;
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -578,27 +579,6 @@ li {
   border-width: 1px;
   padding: 10px;
   border-radius: 8px;
-}
-
-.grid-item1 {
-  border-style:dashed;
-  width: 327px;
-  height: 222px;
-  border-top-right-radius: 8px;
-  border-top-left-radius: 8px;
-  padding: 16px;
-  gap: 16px;
-  border-bottom: none;
-}
-.grid-item2 {
-  border-style:dashed;
-  width: 327px;
-  height: 222px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  padding: 16px;
-  gap: 16px;
-  background-color: #FFFFFF;
 }
 
 ul {

@@ -11,10 +11,6 @@ a {
   text-decoration: none;
 }
 
-li {
-  list-style-type: none;
-}
-
 body {
   font-family: 'Poppins', sans-serif;
   height: 5410px;
@@ -75,7 +71,7 @@ section {
 ul {
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 20px;
   margin-top: 25px;
   margin-left: -10px;
 }
@@ -84,6 +80,22 @@ ul {
   align-content: end;
   flex-flow: row;
   align-self: center;
+}
+
+li {
+  list-style-type: none;
+  background-color: #ebf0ee;
+  align-items: center;
+  border-radius: 4px;
+  padding: 8px 12px;
+  width: 206px;
+  height: 32px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 3%;
+  color: #3a4a42;
 }
 
 .contact li {
@@ -342,21 +354,6 @@ header img {
   margin-left: -10px;
 }
 
-li {
-  background-color: #ebf0ee;
-  align-items: center;
-  border-radius: 4px;
-  padding: 8px 12px;
-  width: 206px;
-  height: 32px;
-  font-family: 'Inter', sans-serif;
-  font-weight: 600;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 3%;
-  color: #3a4a42;
-}
-
 .contact li + li {
   margin-left: 20px;
 }
@@ -581,11 +578,6 @@ li {
   border-radius: 8px;
 }
 
-ul {
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-}
 #3 {
   align-content: center;
 }

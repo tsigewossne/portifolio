@@ -57,7 +57,6 @@ section {
   left: calc(50% - (187.5px));
   overflow: hidden;
   background: #fff;
-  background-image: url(images/background.png);
   background-repeat: no-repeat;
   background-position-x: 0;
   background-position-y: 100%;
@@ -267,6 +266,9 @@ flex-direction: column;
 gap: 20px;
 }
 
+.works {
+  align-items: center;
+}
 .works .arrow-down {
   margin-top: 550px;
   border: solid black;
@@ -279,12 +281,10 @@ gap: 20px;
 }
 
 .works h1 {
-  width: 327px;
-  height: 97px;
   font-family: 'Inter', sans-serif;
+  font-style: normal;
   font-weight: 700px;
   font-size: 40px;
-  align-items: center;
   color: #172b4d;
   line-height: 52px;
   display: flex;
@@ -395,4 +395,27 @@ li {
   align-items: center;
   top: 16PX;
   left: 16PX;
+}
+
+.About h1 {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+
+}
+
+.About {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  padding: 12px;
+}
+ 
+.About #resume {
+  font-weight: bold;
+  position: relative;
 }

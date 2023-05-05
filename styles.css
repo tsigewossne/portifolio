@@ -293,3 +293,46 @@ header img {
   flex-direction: row;
   justify-content: center;
 }
+
+.grid-container1 {
+  display: grid;
+  gap: 0px 100px;
+  grid-template-rows: auto auto;
+  grid-template-columns: auto;
+  background-color: #f7f7f9;
+  border-width: 1px;
+  padding: 10px;
+  border-radius: 8px;
+  border: brown;
+  border-style: dashed;
+}
+
+.grid-item1 {
+  border-style:dashed;
+  width: 327px;
+  height: 222px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  padding: 16px;
+  gap: 16px;
+  border-bottom: none;
+}
+.grid-item2 {
+  border-style:dashed;
+  width: 327px;
+  height: 222px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding: 16px;
+  gap: 16px;
+  background-color: #FFFFFF;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+#3 {
+  align-content: center;
+}

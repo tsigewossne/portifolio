@@ -57,10 +57,6 @@ section {
   left: calc(50% - (187.5px));
   overflow: hidden;
   background: #fff;
-  background-image: url(images/background.png);
-  background-repeat: no-repeat;
-  background-position-x: 0;
-  background-position-y: 100%;
 }
 
 .container {

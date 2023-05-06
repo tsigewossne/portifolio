@@ -1,71 +1,72 @@
-# Portfolio: setup and mobile-first<a name="readme-top"></a>
-
+<a name="readme-top"></a>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Portfolio: finish mobile version <a name="about-project"></a>
 
-# 📖 Portfolio:setup and mobile-first**
-is an introductory project to start building my personal Portifolio.
+This is a personal portfolio, Developed based on a Given template(Templete three)
+
+**Portfolio: finish mobile version** is the next project from setup mobile first portifolio that includes the works and about me contribution.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> css and html
+The project uses mainly the following technologies:
+
+<details>
+  <summary>CSS</summary>
+</details>
+<details>
+  <summary>HTML</summary>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Html & css**
-- **Linters config**
-- **Responsive styles**
+- **Basic of HTML**
+- **Layout stylesheet (Flow, Flexbox and Grid)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
-follow the below steps to get started
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
->you need to have the knowledge of git and github commands before this project
+In order to run this project you need: to have an introductory knowledge of git and github commands
 
 ### Setup
 
->clone the folder in your specified directory by "git clone + link (https://github.com/tsigewossne/portifolio/tree/setup-and-mobile-first)" and make sure the file has be copied.
-
+Clone this repository to your desired folder:
+"git@github.com:tsigewossne/portifolio.git" By using git clone command.
 
 ### Install
 
-> use Visual studio to the project to install the project by pull request
+Install this project with:
 
 ### Usage
 
->You can run it with commads on git that include git add . ,git commit and git push
-
-### Run tests
-
->open the project after you made whole changes
-
-### Deployment
-request for the code review
+To run the project, execute the following command:
+right click on the html file and open in your default browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,25 +75,36 @@ request for the code review
 👤 **Tsige Wossne**
 
 - GitHub: [@githubhandle](https://github.com/tsigewossne)
-- Twitter: [@twitterhandle] @Tsigewo
+- Twitter: [@twitterhandle] (https://twitter.com/TsigeWo)
+- Email: [@gmail] (tsigedejen@gmail.com)
 - LinkedIn: [LinkedIn](http://ca.linkedin.com/in/linkedintsigewossne)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Additional Tags**
-- [ ] **Simple buttons**
+- **Recent works**
+- **News**
+- **Full version portfolio**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+Feel free to contact me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please appriciate my work by following my social media profiles and provide your comments and suggestions.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the microverse team that stands me for this project including my morning team, code reviewers and my partners
+I would like to thank the microverse team that stands me for this project including my morning team, code reviewers and my partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

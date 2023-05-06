@@ -88,7 +88,6 @@ li {
   align-items: center;
   border-radius: 4px;
   padding: 8px 12px;
-  width: 206px;
   height: 32px;
   font-family: 'Inter', sans-serif;
   font-weight: 600;
@@ -281,10 +280,6 @@ header img {
   gap: 20px;
 }
 
-.works {
-  align-items: center;
-}
-
 .works .arrow-down {
   margin-top: 550px;
   border: solid black;
@@ -306,14 +301,15 @@ header img {
   line-height: 52px;
   display: flex;
   text-align: center;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .works {
-display: flex;
-flex-direction: column;
-justify-content: center;
-gap: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
 }
 
 .works img {

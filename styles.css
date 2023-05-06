@@ -368,7 +368,7 @@ header img {
   align-items: center;
   padding: 12px;
   gap: 10px;
-  width: 122px;
+  width: 127px;
   height: 48px;
   left: calc(50% - 122px / 2 + 0.5px);
   bottom: 8px;
@@ -386,6 +386,12 @@ header img {
 .button:hover {
   background-color: #4caf50;
   color: white;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
 
 h4 {
@@ -440,6 +446,11 @@ h4 {
   color: white;
 }
 
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 
 .btn p {
   color: #fff;
@@ -562,6 +573,7 @@ h4 {
 }
 
 .btn1 {
+  transition-duration: 0.4s;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -574,6 +586,11 @@ h4 {
   width: 153px;
   height: 48px;
   margin-left: 25%;
+}
+
+.btn1:hover {
+  background-color: #4caf50; 
+  color: white;
 }
 
 .btn1 p {

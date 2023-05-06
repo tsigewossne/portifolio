@@ -21,8 +21,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio:setup and mobile-first**
-is an introductory project to start building my personal Portifolio.
+# 📖 Portfolio: finish mobile version
+is an introductory project to build my personal Portifolio.The project mainly contains the Header, My Recent works, About me and Feature works.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,8 +49,7 @@ follow the below steps to get started
 
 ### Setup
 
->clone the folder in your specified directory by "git clone + link (https://github.com/tsigewossne/portifolio/tree/setup-and-mobile-first)" and make sure the file has be copied.
-
+>clone the folder in your specified directory by "git clone + link (https://github.com/tsigewossne/portifolio/tree/finish-mobile-first-portfolio)" and make sure the file has be copied.
 
 ### Install
 
@@ -77,10 +76,7 @@ request for the code review
 - Twitter: [@twitterhandle] @Tsigewo
 - LinkedIn: [LinkedIn](http://ca.linkedin.com/in/linkedintsigewossne)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 

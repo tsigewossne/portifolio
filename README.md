@@ -18,7 +18,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 Portfolio: finish mobile version <a name="about-project"></a>
@@ -108,8 +107,6 @@ If you like this project please appriciate my work by following my social media 
 I would like to thank the microverse team that stands me for this project including my morning team, code reviewers and my partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 

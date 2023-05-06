@@ -21,8 +21,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 Portfolio: finish mobile version <a name="about-project"></a>
 
 This is a personal portfolio, Developed based on a Given template(Templete three)
@@ -49,9 +47,6 @@ The project uses mainly the following technologies:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -75,8 +70,6 @@ To run the project, execute the following command:
 right click on the html file and open in your default browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 

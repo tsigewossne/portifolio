@@ -383,6 +383,7 @@ header img {
   letter-spacing: 0.03em;
   color: #fff;
 }
+
 .button:hover {
   background-color: #4caf50;
   color: white;
@@ -442,11 +443,11 @@ h4 {
 }
 
 .btn:hover {
-  background-color: #4caf50; 
+  background-color: #4caf50;
   color: white;
 }
 
-.button:active {
+.btn:active {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
@@ -589,7 +590,7 @@ h4 {
 }
 
 .btn1:hover {
-  background-color: #4caf50; 
+  background-color: #4caf50;
   color: white;
 }
 

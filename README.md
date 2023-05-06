@@ -1,32 +1,4 @@
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -53,7 +25,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Portfolio: finish mobile version <a name="about-project"></a>
 
->This is a personal portfolio, Developed based on a Given template(Templete three)
+This is a personal portfolio, Developed based on a Given template(Templete three)
 
 **Portfolio: finish mobile version** is the next project from setup mobile first portifolio that includes the works and about me contribution.
 
@@ -61,7 +33,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
->The project uses mainly the following technologies:
+The project uses mainly the following technologies:
 
 <details>
   <summary>CSS</summary>
@@ -69,20 +41,16 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>HTML</summary>
 </details>
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Basic of HTML**
-- **Layout stylesheet (Flow, Flexbox and Grid**
+- **Layout stylesheet (Flow, Flexbox and Grid)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -123,33 +91,24 @@ right click on the html file and open in your default browser
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Recent works**
-- [ ] **News**
-- [ ] **Full version portfolio**
+- **Recent works**
+- **News**
+- **Full version portfolio**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
 Feel free to contact me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please appriciate my work by following my social media profiles and provide your comments and suggestions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 

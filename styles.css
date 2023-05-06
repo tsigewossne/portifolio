@@ -359,7 +359,8 @@ header img {
   margin-left: 20px;
 }
 
-.content-three {
+.button {
+  transition-duration: 0.4s;
   margin-top: 30px;
   position: relative;
   display: flex;
@@ -382,8 +383,12 @@ header img {
   letter-spacing: 0.03em;
   color: #fff;
 }
+.button:hover {
+  background-color: #4caf50;
+  color: white;
+}
 
-.name {
+h4 {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
   font-size: 24px;
@@ -427,7 +432,14 @@ header img {
   border-radius: 4px;
   width: 153px;
   height: 48px;
+  transition-duration: 0.4s;
 }
+
+.btn:hover {
+  background-color: #4caf50; 
+  color: white;
+}
+
 
 .btn p {
   color: #fff;
